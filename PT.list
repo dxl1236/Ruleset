@@ -45,6 +45,7 @@ PROCESS-NAME,WebTorrent.exe
 PROCESS-NAME,WebTorrent Helper.exe
 PROCESS-NAME,qbittorrent.exe
 PROCESS-NAME,Motrix.exe
+
 # bt
 DOMAIN-SUFFIX,smtp
 DOMAIN-KEYWORD,aria2
