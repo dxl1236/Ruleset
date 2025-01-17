@@ -6,14 +6,14 @@ DOMAIN-SUFFIX,sub.id9.cc
 DOMAIN-SUFFIX,sub.maoxiongnet.com
 DOMAIN-SUFFIX,sub.ssrsub.com
 DOMAIN-SUFFIX,fwcloud.xyz
-DOMAIN-SUFFIX,fwcloud.me
-DOMAIN-SUFFIX,zh.z-library.se
-DOMAIN-SUFFIX,zh.zlibrary-ng.se
+DOMAIN-SUFFIX,fwcloud
+
 DOMAIN-SUFFIX,acl4ssr.netlify.com
 DOMAIN-SUFFIX,pcgamestorrents.com
 DOMAIN-SUFFIX,clevo.com
-DOMAIN-SUFFIX,singlelogin.re
-DOMAIN-SUFFIX,singlelogin.se
-DOMAIN-SUFFIX,singlelogin.rs
-DOMAIN-SUFFIX,z-lib.gs
+
+DOMAIN-SUFFIX,zlibrary-ng
+DOMAIN-SUFFIX,singlelogin
+DOMAIN-SUFFIX,z-lib
+DOMAIN-SUFFIX,z-library
 
